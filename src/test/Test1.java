@@ -7,6 +7,8 @@ public class Test1 {
 		
 		
 		
+		
+		
 		Scanner sc100 = new Scanner(System.in);
 		System.out.print("점수를입력하세요.(0~100점): ");
 		
