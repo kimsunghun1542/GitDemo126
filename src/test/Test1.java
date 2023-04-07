@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Test1 {
 	public static void main(String[] args) {
 		
-		
+		String name="김태희";
+		String branch_name ="Brahcnksh";
 		
 		
 		
@@ -43,7 +44,9 @@ public class Test1 {
 			}
 			
 			System.out.println("점수:"+ score + "학점:" + grade);
-		}			
+		}	
+		System.out.println("name:"   +name);
+		System.out.println("Brahcnksh:" + branch_name);
 	
 	}
 }
